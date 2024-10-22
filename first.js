@@ -1,0 +1,1 @@
+documnent.write("Hello java script")
